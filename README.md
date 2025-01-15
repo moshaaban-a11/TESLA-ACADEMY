@@ -1,5 +1,3 @@
-# TESLA-ACADEMY.github.io
-منصه
 <!DOCTYPE html>
 <html lang="ar">
 <head>
